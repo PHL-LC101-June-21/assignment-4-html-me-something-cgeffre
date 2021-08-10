@@ -1,1 +1,55 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 35px;
+    margin-right: 35px;
+    display: block;
+    font-family: sans-serif;
+    background-color: rgb(255, 255, 235);
+}
+
+#mainHeading {
+    color: red;
+    text-align: center;
+    font-size: 28px;
+    padding-top: 5px;
+}
+
+article h2 {
+    font-size: 24px;
+    text-align: left;
+    color: maroon;
+}
+
+.articleDivide {
+    padding: 7px;
+}
+
+.funParagraph {
+    color: green;
+}
+
+.images {
+    width: 650px;
+    height: auto;
+    padding-top: 5px;
+}
+
+.imageText {
+    font-size: small;
+}
+
+#conclusion {
+    padding-top: 5px;
+}
+
+#foot {
+    font-size: small;
+    padding-top: 15px;
+    text-align: center;
+}
+
+a, a:visited {
+    color: blue;
+}
